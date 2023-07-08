@@ -493,6 +493,7 @@
 ||jianshu.io
 ||jianshuapi.com
 ||jiathis.com
+||jiemian.com
 ||jmstatic.com
 ||jumei.com
 ||kaola.com
