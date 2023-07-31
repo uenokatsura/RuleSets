@@ -477,6 +477,7 @@
 ||hollisterco.com
 ||hongxiu.com
 ||huajiao.com
+||hua-der.com
 ||hupu.com
 ||huxiucdn.com
 ||huya.com
@@ -543,6 +544,7 @@
 ||oschina.net
 ||ourdvs.com
 ||overcast.fm
+||pix.ink
 ||polyv.net
 ||qbox.me
 ||qcloud.com
