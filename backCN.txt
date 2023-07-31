@@ -101,10 +101,10 @@
 # Chinanet
 ||21cn.com
 
-
 # DiDi
 ||didialift.com
 ||didiglobal.com
+||didistatic.com
 ||udache.com
 
 # Douyu 斗鱼
