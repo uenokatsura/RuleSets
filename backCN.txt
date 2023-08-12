@@ -584,6 +584,7 @@
 ||sm.ms
 ||smzdm.com
 ||snwx.com
+||solidot.org
 ||soufunimg.com
 ||sspai.com
 ||startssl.com
@@ -621,6 +622,7 @@
 ||wscdns.com
 ||xdrig.com
 ||xhscdn.com
+||xhslink.com
 ||xiachufang.com
 ||xiaoeknow.com
 ||xiaoe-tech.com
