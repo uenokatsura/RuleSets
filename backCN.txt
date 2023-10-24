@@ -267,8 +267,9 @@
 ||smtcdns.com
 ||smtcdns.net
 ||soso.com
-||tencent-cloud.net
 ||tencent.com
+||tencentcs.com
+||tencent-cloud.net
 ||tencentmind.com
 ||tenpay.com
 ||weixin.com
