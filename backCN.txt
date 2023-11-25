@@ -606,6 +606,7 @@
 ||tudou.com
 ||tuniu.com
 ||tuniucdn.com
+||txrjy.com	
 ||chivox.com
 ||umengcloud.com
 ||upyun.com
