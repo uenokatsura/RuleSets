@@ -499,6 +499,7 @@
 ||jianshuapi.com
 ||jiathis.com
 ||jiemian.com
+||jlc.com
 ||jmstatic.com
 ||jumei.com
 ||kaola.com
@@ -546,6 +547,7 @@
 ||onlinedown.net
 ||oracle.com
 ||oschina.net
+||oshwhub.com
 ||ourdvs.com
 ||overcast.fm
 ||pix.ink
