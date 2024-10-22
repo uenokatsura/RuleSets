@@ -524,6 +524,7 @@
 ||lxdns.com
 ||makeflow.com
 ||maoyan.com
+||max-c.com
 ||mbalib.com
 ||mcbbs.net
 ||meilishuo.com
